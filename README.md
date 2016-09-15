@@ -72,7 +72,7 @@ The following url will be generated:
 file://my/path/test.html
 ```
 
-### pattern(value)
+### .pattern(value)
 
 Set the default pattern.
 
