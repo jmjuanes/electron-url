@@ -1,0 +1,12 @@
+{
+  "name": "electron-url",
+  "version": "0.0.1",
+  "description": "A simple way to load a file/url in electron using patterns.",
+  "keywords": [ "electron", "url", "patterns" ],
+  "author": "Josemi Juanes <josemijuanes@gmail.com>",
+  "main": "./index.js",
+  "repository": { "type": "git", "url": "git://github.com/jmjuanes/electron-url.git" },
+  "scripts": { },
+  "dependencies": { },
+  "license": "MIT"
+}
